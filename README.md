@@ -7,11 +7,11 @@ Website Overview
 Our website is designed to provide a seamless experience, featuring the following key sections:
 
 
-	HOME – Explore our expertise and services.
-	SERVICES – Discover our wide range of marketing solutions.
-	ABOUT US – Learn more about our mission and team.
-	TESTIMONIALS – See what our clients have to say.
-	CONTACTS – Get in touch with us.
+	HOME 
+	SERVICES
+	ABOUT US
+	TESTIMONIALS
+	CONTACTS
 
 
 Below are a few snapshots showcasing our website.
